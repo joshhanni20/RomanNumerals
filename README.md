@@ -6,3 +6,6 @@ I spent 3 hours and 15 minutes getting the whole project figured out, and then I
 For Roman Numerals that the user inputs incorrectly, I just have the program output that it cannot be converted.
 
 I also designed it to run as a user inputting inputs in a window that opens as you compile!
+
+
+I also hope I put everything you need into here! I am new to GitHub, so I hope this all works!
